@@ -323,6 +323,7 @@ namespace SimpleTermFrequencyAnalyser
 		}
 
 		// step5() takes off -ant, -ence etc., in context <c>vcvc<v>. 
+		
 		private void step5() 
 		{
 			if (k == 0)
