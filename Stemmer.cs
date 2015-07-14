@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 namespace SimpleTermFrequencyAnalyser
 {
 	public interface StemmerInterface 
-	{
+	{    
 		string stemTerm( string s );
 	}
 
